@@ -19,4 +19,4 @@ The super class is class "Material" which holds information about ISBN number, a
 * Video
 * Magazine
 
-File with "main" function is ui.java which holds logic for a CLI with switch/case statments
+File with "main" function is ui.java which holds logic for a CLI with switch/case statments.
